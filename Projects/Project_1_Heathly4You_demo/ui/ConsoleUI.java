@@ -115,3 +115,45 @@ public class ConsoleUI {
     }
 }
 
+// import Projects.Project_1_Heathly4You_demo.domain.User;
+// import Projects.Project_1_Heathly4You_demo.service.WeatherService;
+// import javax.swing.*;
+// import java.awt.event.ActionEvent;
+
+// public class ConsoleUI {
+//     private User loggedInUser;
+//     private WeatherService weatherService;
+//     private JFrame frame;
+
+//     public ConsoleUI(User user, WeatherService weatherService) {
+//         this.loggedInUser = user;
+//         this.weatherService = weatherService;
+//         initializeUI();
+//     }
+
+//     private void initializeUI() {
+//         frame = new JFrame("Healthy4You - Dashboard");
+//         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+//         frame.setSize(400, 300);
+//         frame.setLayout(new BoxLayout(frame.getContentPane(), BoxLayout.Y_AXIS));
+
+//         JLabel welcomeLabel = new JLabel("Welcome, " + loggedInUser.getUsername());
+//         JButton checkWeatherButton = new JButton("Check Weather");
+
+//         checkWeatherButton.addActionListener(this::checkWeatherAction);
+
+//         frame.add(welcomeLabel);
+//         frame.add(checkWeatherButton);
+
+//         // Additional UI components for user activities
+
+//         frame.setVisible(true);
+//     }
+
+//     private void checkWeatherAction(ActionEvent e) {
+//         // Call weatherService to get weather data
+//         // Display the weather information
+//     }
+
+//     // Additional methods as needed
+// }
