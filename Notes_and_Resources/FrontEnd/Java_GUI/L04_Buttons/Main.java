@@ -1,4 +1,4 @@
-package Notes_and_Resources.java_gui_full_course.buttons;
+package Notes_and_Resources.FrontEnd.Java_GUI.L04_Buttons;
 
 public class Main {
 

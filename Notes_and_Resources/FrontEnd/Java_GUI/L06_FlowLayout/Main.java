@@ -1,4 +1,4 @@
-package Notes_and_Resources.java_gui_full_course.flowlayout;
+package Notes_and_Resources.FrontEnd.Java_GUI.L06_FlowLayout;
 
 import java.awt.Color;
 import java.awt.Dimension;

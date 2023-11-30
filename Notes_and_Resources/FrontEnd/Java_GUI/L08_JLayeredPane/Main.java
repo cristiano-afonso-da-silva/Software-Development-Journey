@@ -1,4 +1,4 @@
-package Notes_and_Resources.java_gui_full_course.jlayeredpane;
+package Notes_and_Resources.FrontEnd.Java_GUI.L08_JLayeredPane;
 
 import java.awt.Color;
 

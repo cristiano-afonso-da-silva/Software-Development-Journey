@@ -1,4 +1,4 @@
-package Notes_and_Resources.java_gui_full_course.gridlayout;
+package Notes_and_Resources.FrontEnd.Java_GUI.L07_GridLayout;
 
 import java.awt.GridLayout;
 

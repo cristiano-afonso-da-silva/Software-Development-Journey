@@ -1,4 +1,4 @@
-package Notes_and_Resources.java_gui_full_course.labels;
+package Notes_and_Resources.FrontEnd.Java_GUI.L02_Labels;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;

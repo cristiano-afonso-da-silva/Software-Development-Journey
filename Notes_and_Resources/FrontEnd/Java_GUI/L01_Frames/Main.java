@@ -1,4 +1,4 @@
-package Notes_and_Resources.java_gui_full_course.frames;
+package Notes_and_Resources.FrontEnd.Java_GUI.L01_Frames;
 
 // import javax.swing.JFrame;
 // import javax.swing.ImageIcon;

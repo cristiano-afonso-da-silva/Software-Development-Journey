@@ -1,4 +1,4 @@
-package Notes_and_Resources.java_gui_full_course.borderlayout;
+package Notes_and_Resources.FrontEnd.Java_GUI.L05_BorderLayout;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

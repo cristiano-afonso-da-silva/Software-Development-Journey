@@ -1,4 +1,4 @@
-package Notes_and_Resources.java_gui_full_course.opennewwindow;
+package Notes_and_Resources.FrontEnd.Java_GUI.L09_Open_New_Window;
 
 import javax.swing.JButton;
 import javax.swing.JFrame;

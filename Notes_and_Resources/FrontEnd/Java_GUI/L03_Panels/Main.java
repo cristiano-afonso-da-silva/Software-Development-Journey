@@ -1,4 +1,4 @@
-package Notes_and_Resources.java_gui_full_course.panels;
+package Notes_and_Resources.FrontEnd.Java_GUI.L03_Panels;
 
 import java.awt.Color;
 import java.awt.Image;
