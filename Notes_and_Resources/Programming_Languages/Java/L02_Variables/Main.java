@@ -1,4 +1,4 @@
-package Notes_and_Resources.Programming_Languages.Java.Variables_2;
+package Notes_and_Resources.Programming_Languages.Java.L02_Variables;
 
 public class Main {
     public static void main(String[] args) {

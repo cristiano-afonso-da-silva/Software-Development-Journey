@@ -1,4 +1,4 @@
-package Notes_and_Resources.Programming_Languages.Java.Java_Tutorial_for_Beginners_1;
+package Notes_and_Resources.Programming_Languages.Java.L01_Java_Tutorial_for_Beginners;
 
 public class Main {
 
@@ -13,7 +13,7 @@ public class Main {
         
         System.out.println("\"I love python also\""); //print ""
         System.out.println("\\I love JavaScript also"); //print \
-        
+
         /*
          * Hello
          * I am Cristiano

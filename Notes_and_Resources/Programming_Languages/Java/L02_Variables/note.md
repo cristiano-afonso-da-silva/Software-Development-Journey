@@ -1,4 +1,4 @@
-# Variable
+# 2 Variable
 + a placeholder for a value that behaves as the value it contains
 + e.g. x = 123, y = "Hello", z = true
 

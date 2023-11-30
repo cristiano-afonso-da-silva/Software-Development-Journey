@@ -1,4 +1,4 @@
-# 1_Java_Tutorial_for_Beginner
+# 1 Java Tutorial for Beginner
 
 ## Java Introduction
 + Top 3 most popular languages
