@@ -1,4 +1,4 @@
-package Weekly_Logs.Week1.java_gui_full_course.panels;
+package Notes_and_Resources.java_gui_full_course.panels;
 
 import java.awt.Color;
 import java.awt.Image;

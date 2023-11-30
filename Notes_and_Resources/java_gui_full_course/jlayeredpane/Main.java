@@ -1,4 +1,4 @@
-package Weekly_Logs.Week1.java_gui_full_course.jlayeredpane;
+package Notes_and_Resources.java_gui_full_course.jlayeredpane;
 
 import java.awt.Color;
 

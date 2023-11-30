@@ -1,4 +1,4 @@
-package Weekly_Logs.Week1.java_gui_full_course.buttons;
+package Notes_and_Resources.java_gui_full_course.buttons;
 
 public class Main {
 

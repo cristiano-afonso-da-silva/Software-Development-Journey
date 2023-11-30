@@ -1,4 +1,4 @@
-package Weekly_Logs.Week1.java_gui_full_course.textfields;
+package Notes_and_Resources.java_gui_full_course.textfields;
 
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;

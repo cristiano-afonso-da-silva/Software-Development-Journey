@@ -1,4 +1,4 @@
-package Weekly_Logs.Week1.java_gui_full_course.flowlayout;
+package Notes_and_Resources.java_gui_full_course.flowlayout;
 
 import java.awt.Color;
 import java.awt.Dimension;

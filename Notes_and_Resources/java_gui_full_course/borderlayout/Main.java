@@ -1,4 +1,4 @@
-package Weekly_Logs.Week1.java_gui_full_course.borderlayout;
+package Notes_and_Resources.java_gui_full_course.borderlayout;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

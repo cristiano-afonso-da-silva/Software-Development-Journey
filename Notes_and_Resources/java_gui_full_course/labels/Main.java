@@ -1,4 +1,4 @@
-package Weekly_Logs.Week1.java_gui_full_course.labels;
+package Notes_and_Resources.java_gui_full_course.labels;
 
 import javax.swing.JFrame;
 import javax.swing.JLabel;

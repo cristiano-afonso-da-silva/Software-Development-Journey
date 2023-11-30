@@ -1,4 +1,4 @@
-package Weekly_Logs.Week1.java_gui_full_course.gridlayout;
+package Notes_and_Resources.java_gui_full_course.gridlayout;
 
 import java.awt.GridLayout;
 
