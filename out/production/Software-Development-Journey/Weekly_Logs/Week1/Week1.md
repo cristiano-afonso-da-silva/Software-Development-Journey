@@ -1,14 +1,18 @@
-# Week [Number] Learning Log
+# Week 1 Learning Log
 
 ## Date Range
-- **Start Date:** [YYYY-MM-DD]
-- **End Date:** [YYYY-MM-DD]
+- **Start Date:** [2023-11-27]
+- **End Date:** [2023-12-03]
 
 ## Weekly Goals
 - Briefly outline the key goals or objectives for this week.
 - E.g., Understand the basics of Python, complete first two chapters of [Book/Resource Name].
 
 ## Topics Covered
+### 2023-11-27
+- Java
+### 2023-11-30
+- Java Swing Demo with IntelliJ
 ### Searching Earthquake Data
 #### Introduction
 - Transroming and Using Data:

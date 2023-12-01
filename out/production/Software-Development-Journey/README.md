@@ -27,7 +27,7 @@ Here, I document my weekly learning outcomes, insights, and reflections. Each we
 This section contains the major projects I've worked on. Each project has its own directory with source code and a detailed README explaining the project's purpose, the technologies used, and the learning outcomes.
 
 - [Project 1](Projects/Project_1)
-- [Project 2](Projects/Project_2)
+- [Project 2](Projects/P02_Java_Swing_Demo)
 - [More...](Projects)
 
 ## Code Snippets
